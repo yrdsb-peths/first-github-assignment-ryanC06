@@ -8,7 +8,7 @@ public class Rectangle
         width = rectWidth;
         height = rectHeight;
     }
-    
+    //gets the area of the rectangle 
     public int getArea()
     {
         return width * height;
